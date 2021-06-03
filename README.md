@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hellloooooooo 👋
 
+I'm a 👩🏻‍💻 and I'm based in 🗽.
+
+Things I like
+- ✨  whimsy
+- 🍦  ice cream w/ 🧇
+- ☕️  drinking coffee
+- ⚡️ Harry Potter
+
+That's all.
+ 
 <!--
 **talum/talum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
