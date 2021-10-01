@@ -1,6 +1,6 @@
 ### Hellloooooooo 👋
 
-I'm a 👩🏻‍💻 and I'm based in 🗽.
+I'm a 👩🏻‍💻 and I'm based in 🗽.[^1]
 
 Things I like
 - ✨  whimsy
@@ -9,6 +9,8 @@ Things I like
 - ⚡️ Harry Potter
 
 That's all.
+
+[^1]: Footnotes are cool 🦶🎶
  
 <!--
 **talum/talum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
